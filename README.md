@@ -1,4 +1,4 @@
-# Mercado Virtual — Full
+# Mercado Virtual 
 
 Projeto demo: SPA React + TypeScript com:
 - Dark mode (toggle via seletor)
